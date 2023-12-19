@@ -12,7 +12,7 @@ I‘m a full-stack web developer. I also do freelance web development.
 
 ### My Status:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohitjaryal&theme=github-dark&card_width=695)](https://git.io/streak-stats)
+[![GitHub Streak](https://rightly-correct-dove.ngrok-free.app/general/stats-ui)]
 <br />
 
 ---
