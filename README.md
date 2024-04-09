@@ -12,7 +12,8 @@ I‘m a full-stack web developer. I also do freelance web development.
 
 ### My Status:
 
-![GitHub Streak](https://rightly-correct-dove.ngrok-free.app/general/stats-ui)
+![GitHub Streak]([https://rightly-correct-dove.ngrok-free.app/general/stats-ui](https://rightly-correct-dove.ngrok-free.app/github/ui-stats
+))
 <br />
 
 ---
