@@ -25,6 +25,6 @@ I‘m a full-stack web developer. I also do freelance web development.
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][website]
 
-[website]: https://www.rohitjaryal.dev
+[website]: https://www.roej.dev
 [linkedin]: https://www.linkedin.com/in/rohit-jaryal/
 [devto]: https://dev.to/riolio
