@@ -12,7 +12,8 @@ I‘m a full-stack web developer. I also do freelance web development.
 
 ### My Status:
 
-![GitHub Streak](https://roej.dev/github/ui-stats)
+![GitHub Streak](https://api.roej.dev/github/ui-stats)
+
 
 <br />
 
