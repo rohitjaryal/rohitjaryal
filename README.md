@@ -1,6 +1,6 @@
 ### Hi there, I'm Rohit. 
 
-I‘m a full-stack web developer. I also do freelance web development.
+I‘m a full-stack web developer.
 
 ### Connect with me:
 
