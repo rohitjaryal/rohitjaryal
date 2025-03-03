@@ -1,18 +1,11 @@
 ### Hi there, I'm Rohit. 
 
-I‘m a full-stack web developer.
-
 ### Connect with me:
 
-[<img align="left" alt="Rohit Jaryal Website" width="22px" src="https://raw.githubusercontent.com/rohitjaryal/rohitjaryal/main/icons/world-www.svg" />][website]
-[<img alt="Rohit Jaryal | LinkedIn" height="22px" src="https://raw.githubusercontent.com/rohitjaryal/rohitjaryal/main/icons/brand-linkedin.svg" title="Rohit Jaryal | LinkedIn" width="22px"/>][linkedin]
 <br />
 
 ---
 
-### My Status:
-
-![GitHub Streak](https://api.roej.dev/github/ui-stats)
 
 
 <br />
@@ -26,6 +19,4 @@ I‘m a full-stack web developer.
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][website]
 
-[website]: https://www.roej.dev
-[linkedin]: https://www.linkedin.com/in/rohit-jaryal/
 [devto]: https://dev.to/riolio
